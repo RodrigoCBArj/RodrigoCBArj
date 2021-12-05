@@ -1,4 +1,4 @@
-<h2> Hello World! 👋 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h2>
+<h3> Hello World! 👋 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h2>
 <h3> I'm Rodrigo Araújo, Computer Science student and seek to become a fullstack developer specializing in backend. 🚀</h3>
 
 #
