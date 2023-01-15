@@ -1,11 +1,15 @@
 <h3> Hello World! 👋 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h2>
-<h3> I'm Rodrigo Araújo, Computer Science student and seek to become a fullstack developer specializing in backend. 🚀</h3>
+<b>I'm Rodrigo Araújo, Computer Science student and fullstack developer specialized in backend.</b> 🚀
+<br>
+Today, I work for NTT DATA as a backend developer in the brazilian bank client.
 
 #
 
+<!-- 
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=rodrigocbarj&show_icons=true&icon_color=1de03e&title_color=1de03e&border_color=1de03e&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 </div>
+-->
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="RCBA-Java" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -17,7 +21,10 @@
   <img align="center" alt="RCBA-linux" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
 
-![Snake animation](https://github.com/RodrigoCBArj/RodrigoCBArj/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+<img height="200em" src="https://github.com/RodrigoCBArj/RodrigoCBArj/blob/output/github-contribution-grid-snake.svg"/>
+<!-- ![Snake animation](https://github.com/RodrigoCBArj/RodrigoCBArj/blob/output/github-contribution-grid-snake.svg) -->
+</div>
 
 <h2> :speech_balloon: How to reach me </h2>
 
