@@ -21,11 +21,6 @@ Today, I work for NTT DATA as a backend developer in the brazilian bank client.
   <img align="center" alt="RCBA-linux" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
 
-<div align="center">
-<img height="200em" src="https://github.com/RodrigoCBArj/RodrigoCBArj/blob/output/github-contribution-grid-snake.svg"/>
-<!-- ![Snake animation](https://github.com/RodrigoCBArj/RodrigoCBArj/blob/output/github-contribution-grid-snake.svg) -->
-</div>
-
 <h2> :speech_balloon: How to reach me </h2>
 
 <div align="center">
